@@ -4,30 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "1aaaf5ba1e41ebd1",
+        "id": "d085e2eafde57d31",
         "type": "tabs",
-        "dimension": 53.870558375634516,
         "children": [
           {
-            "id": "71d202fe39178c7d",
+            "id": "482435e90edb2a63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Общие сведения/Конденсаторы с двойным электрическим слоем.md",
+                "file": "Теория/Модели двойного электрического слоя.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Конденсаторы с двойным электрическим слоем"
+              "title": "Модели двойного электрического слоя"
             }
           }
         ]
       },
       {
-        "id": "d085e2eafde57d31",
+        "id": "7019c26443f901a4",
         "type": "tabs",
-        "dimension": 46.129441624365484,
         "children": [
           {
             "id": "60285fa183828f83",
@@ -37,20 +35,6 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "482435e90edb2a63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Суперконденсаторы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Суперконденсаторы"
             }
           }
         ]
@@ -206,13 +190,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "71d202fe39178c7d",
+  "active": "482435e90edb2a63",
   "lastOpenFiles": [
-    "Теория/Модели двойного электрического слоя.md",
+    "Суперконденсаторы.md",
     "Общие сведения/Конденсаторы с двойным электрическим слоем.md",
+    "Теория/Модели двойного электрического слоя.md",
     "изображения.md",
     "Теория/img/models of double layer.png",
-    "Суперконденсаторы.md",
     "models.md",
     "Pasted image 20241204133815.png",
     "Теория/img",
