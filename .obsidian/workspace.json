@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1563140045d355b4",
+        "id": "edcc71b8a3179176",
         "type": "tabs",
-        "dimension": 56.376811594202906,
         "children": [
           {
-            "id": "b4df6c7154aa4dbf",
+            "id": "e21a8b9e43b40352",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,18 +24,17 @@
         ]
       },
       {
-        "id": "9ea41189166d77e9",
+        "id": "25b97b917dd77eb5",
         "type": "tabs",
-        "dimension": 43.6231884057971,
         "children": [
           {
-            "id": "de9c01e9500ba34c",
+            "id": "5ffdfc01236bbb0c",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Graph view"
             }
           }
         ]
@@ -61,7 +59,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -95,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "305579a5a37cf23f",
@@ -182,36 +181,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
-      "obsidian-git:Open Git source control": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "de9c01e9500ba34c",
+  "active": "e21a8b9e43b40352",
   "lastOpenFiles": [
-    "Теория/Моделировние/Объяснение электрических эквивалентных схем для моделирования EDLC.md",
-    "Теория/Моделировние/Моделирование.md",
-    "Общие сведения/Материалы электродов суперконденсаторов.md",
-    "Общие сведения/Конденсаторы с двойным электрическим слоем.md",
     "Теория/Моделировние/Физические модели двойного электрического слоя.md",
+    "Теория/Моделировние/Объяснение электрических эквивалентных схем для моделирования EDLC.md",
     "Суперконденсаторы.md",
-    "Теория/Моделировние",
-    "Теория/Моделировние/img/models of double layer.png",
+    "Общие сведения/Гибридные конденсаторы.md",
+    "Общие сведения/Конденсаторы с двойным электрическим слоем.md",
+    "Общие сведения/Материалы электродов суперконденсаторов.md",
+    "Общие сведения/Псевдоконденсаторы.md",
+    "Теория/Моделировние/Моделирование.md",
     "Теория/Моделировние/img/models of double layer.png",
     "Теория/Моделировние/img/equivalent schemas.png",
+    "Теория/Моделировние/img",
+    "Теория/Моделировние",
+    "Теория/Модели двойного электрического слоя.md",
     "изображения.md",
+    "Теория/img/models of double layer.png",
     "models.md",
     "Pasted image 20241204133815.png",
-    "Теория/Моделировние/img",
+    "Теория/img",
     "Теории.md",
     "Теория",
-    "Общие сведения/Гибридные конденсаторы.md",
-    "Общие сведения/Псевдоконденсаторы.md",
     "Общие сведения",
     "Welcome.md"
   ]
